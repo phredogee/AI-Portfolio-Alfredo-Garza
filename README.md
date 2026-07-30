@@ -85,7 +85,7 @@ Highlights
 
 Repository:
 
-**(GitHub Link Here)**
+(https://github.com/phredogee/GridironGPT)
 
 ---
 
