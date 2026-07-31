@@ -1,22 +1,18 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/phredogee/GridironGPT/refactor/extract-cortex/gridiron_gpt/assets/banners/cortex_engine_banner.png"
-    alt="Cortex Engine Banner"
-    width="100%"
-  >
+  <img src="https://raw.githubusercontent.com/phredogee/GridironGPT/refactor/extract-cortex/gridiron_gpt/assets/banners/cortex_engine_banner.png" width="100%">
 </p>
 
 # Alfredo Garza
 
 ## Applied Artificial Intelligence Portfolio
 
-Building intelligent software systems through machine learning, computer vision, natural language processing, and large language models.
+**Building intelligent software systems through machine learning, computer vision, natural language processing, and large language models.**
 
 Welcome to my AI engineering portfolio.
 
-This repository serves as a central hub for the software, research, and coursework I've completed while pursuing my Associate of Applied Science in Applied Artificial Intelligence at Houston Community College.
+This repository serves as a central hub for the software, research, and technical projects I've developed while pursuing my Associate of Applied Science in Applied Artificial Intelligence at Houston Community College.
 
-My interests center around building intelligent software systems that combine machine learning, natural language processing, computer vision, and large language models into practical, real-world applications. I enjoy designing complete systems—from data ingestion and processing pipelines to user-facing applications—with an emphasis on scalability, modular architecture, and explainable AI.
+My work focuses on building complete AI systems—from data ingestion and processing pipelines to reasoning engines and interactive applications. Rather than creating isolated demonstrations, I enjoy designing modular, scalable software that solves real-world problems through automation, explainable AI, and intelligent decision-making.
 
 ---
 
@@ -24,43 +20,45 @@ My interests center around building intelligent software systems that combine ma
 
 ## 🧠 Gridiron Cortex
 
-**Modular Intelligence Engine**
+### Modular Intelligence Engine
 
 Gridiron Cortex is a reusable intelligence engine designed to transform raw events into explainable recommendations through a multi-stage reasoning pipeline.
 
-Core capabilities include:
+It provides the intelligence layer behind GridironGPT and is being developed as a general-purpose platform for future AI applications.
+
+### Core Capabilities
 
 - Evidence Aggregation
 - Confidence Calibration
 - Entity Resolution
 - Signal Processing
-- Knowledge Graph Relationships
-- Impact Propagation
+- Relationship Propagation
+- Knowledge Graph Reasoning
 - Prediction Engine
 - Recommendation Engine
 - Explainable AI
-
-Gridiron Cortex serves as the reasoning engine that powers GridironGPT and is being designed as a reusable platform for future intelligent applications.
+- Historical Score Tracking
 
 ---
 
 ## 🏈 GridironGPT
 
-**Fantasy Football Intelligence Platform**
+### Fantasy Football Intelligence Platform
 
 Built on top of Gridiron Cortex, GridironGPT continuously analyzes NFL news and player information to generate actionable fantasy football insights.
 
-Key features include:
+### Features
 
 - Multi-source news ingestion
-- Player matching
+- Player matching and entity resolution
+- Knowledge graph relationships
 - Intelligent signal extraction
-- Knowledge graph reasoning
 - Explainable recommendations
 - Historical player scorecards
 - Streamlit dashboard
+- Retrieval-Augmented Generation (RAG)
 
-Repository
+**Repository**
 
 https://github.com/phredogee/GridironGPT
 
@@ -70,37 +68,38 @@ https://github.com/phredogee/GridironGPT
 
 Computer vision application utilizing YOLO object detection to automate inventory counting and object recognition.
 
-Technologies
+### Technologies
 
 - YOLO11
+- PyTorch
 - OpenCV
 - Python
-- PyTorch
 
 ---
 
 ## 📰 NewsBot v2
 
-Natural Language Processing platform that collects, processes, and analyzes news articles through automated topic extraction and sentiment analysis.
+Natural Language Processing platform that automatically collects, processes, and analyzes news articles.
 
-Features
+### Features
 
-- Topic Modeling
+- Topic Extraction
 - Sentiment Analysis
-- Keyword Extraction
+- Keyword Detection
+- NLP Processing Pipeline
 - Interactive Dashboard
 
 ---
 
 ## 📊 IncidentIQ-AI
 
-AI-assisted IT operations dashboard focused on incident analysis, trend visualization, and operational intelligence.
+AI-assisted IT operations dashboard for incident analysis, operational intelligence, trend visualization, and automation opportunities.
 
 ---
 
 # Technical Skills
 
-## Languages
+## Programming
 
 - Python
 - SQL
@@ -128,7 +127,7 @@ AI-assisted IT operations dashboard focused on incident analysis, trend visualiz
 - NumPy
 - Matplotlib
 
-## Tools
+## Development Tools
 
 - Git
 - GitHub
@@ -142,50 +141,54 @@ AI-assisted IT operations dashboard focused on incident analysis, trend visualiz
 
 # Education
 
-**Houston Community College**
+## Houston Community College
 
-Associate of Applied Science
+**Associate of Applied Science**
 
 Applied Artificial Intelligence
 
-Relevant coursework includes:
+### Relevant Coursework
 
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
-- Robotics
 - Deep Learning
+- Robotics
 
 ---
 
-# Currently Learning
+# Currently Exploring
 
-I continue expanding my knowledge in:
+Current areas of interest include:
 
 - AI Engineering
-- Knowledge Graphs
 - Agentic AI Systems
+- Knowledge Graphs
 - Software Architecture
-- Cloud AI Platforms
 - Intelligent Automation
+- Cloud AI Platforms
 
 ---
 
 # Connect
 
-GitHub
+**GitHub**
 
 https://github.com/phredogee
 
-LinkedIn
+**LinkedIn**
 
-*(Add LinkedIn URL)*
+*(Add your LinkedIn profile)*
 
-Email
+**Email**
 
-*(Add preferred email address)*
+*(Add your preferred email address)*
 
 ---
 
-Thank you for visiting my portfolio. I'm always interested in opportunities to build intelligent software systems, collaborate on innovative projects, and continue growing as an AI engineer.
+## Thank You
+
+Thank you for visiting my portfolio.
+
+I'm passionate about designing intelligent software systems that combine AI, automation, and practical engineering to solve meaningful problems. I'm always interested in opportunities to continue learning, collaborate with other engineers, and contribute to innovative AI projects.
