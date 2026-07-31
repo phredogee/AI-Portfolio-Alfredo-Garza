@@ -18,9 +18,13 @@ My work focuses on building complete AI systems—from data ingestion and proces
 
 # Featured Projects
 
-## 🧠 Gridiron Cortex
+<p align="center">
+  <img src="assets/banners/cortex_engine_design_and_vatiations.png"
+       alt="Gridiron Cortex Design"
+       width="90%">
+</p>
 
-![Cortex Architecture](assets/images/cortex_architecture.png)
+## 🧠 Gridiron Cortex
 
 ### Modular Intelligence Engine
 
@@ -46,8 +50,6 @@ It provides the intelligence layer behind GridironGPT and is being developed as 
 ## 🏈 GridironGPT
 
 ### Fantasy Football Intelligence Platform
-
-![Dashboard](assets/images/gridirongpt_dashboard.png)
 
 Built on top of Gridiron Cortex, GridironGPT continuously analyzes NFL news and player information to generate actionable fantasy football insights.
 
