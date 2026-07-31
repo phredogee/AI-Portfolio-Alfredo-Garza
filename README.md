@@ -5,8 +5,6 @@ Welcome to my professional AI portfolio. This repository showcases the projects,
 
 My interests include intelligent automation, large language models (LLMs), computer vision, natural language processing, and building AI systems that solve practical problems. I enjoy designing software from the ground up—from data ingestion and processing pipelines to user-facing applications—and I'm continually expanding my knowledge through both coursework and independent projects.
 
----
-
 # About Me
 
 I'm an Applied AI student with a background in IT Service Management and technical support who is transitioning into AI and software engineering.
@@ -68,61 +66,25 @@ Current areas of focus include:
 
 # Featured Projects
 
-## 🏈 GridIronGPT
+Featured Projects
 
-My flagship project.
+🏈 GridironGPT
+AI-powered fantasy football intelligence platform
 
-An AI-powered fantasy football intelligence platform that combines multiple news sources, player scoring, recommendation engines, retrieval-augmented generation (RAG), and the Gridiron Cortex intelligence engine to provide data-driven player analysis.
+🧠 Gridiron Cortex
 
-Highlights
+![Cortex](assets/logos/cortex_engine_logo.png)
+Modular intelligence engine for event processing, reasoning,
+knowledge propagation, scoring, and explainable recommendations.
 
-- Multi-source news ingestion
-- Intelligent signal processing
-- Player recommendation engine
-- Knowledge graph architecture
-- Explainable AI recommendations
-- Streamlit dashboard
+👁 Smart Inventory Counter
+YOLO-based computer vision system for automated inventory counting.
 
-Repository:
+📰 NewsBot v2
+Automated NLP news analysis platform.
 
-(https://github.com/phredogee/GridironGPT)
-
----
-
-## 🧠 Gridiron Cortex
-
-A reusable intelligence engine developed to power GridIronGPT.
-
-The engine processes incoming events, extracts signals, propagates impact through relationship graphs, updates scorecards, and produces explainable recommendations.
-
-Key concepts include:
-
-- Entity Resolution
-- Signal Processing
-- Impact Propagation
-- Recommendation Engine
-- Knowledge Graph
-- Score History
-- Explainable AI
-
----
-
-## 📰 NewsBot v2
-
-An automated news analysis platform that collects, processes, and analyzes news articles using NLP techniques.
-
-Features include:
-
-- Topic Extraction
-- Sentiment Analysis
-- Keyword Detection
-- Interactive Dashboard
-
----
-
-## 📊 IncidentIQ-AI
-
-An AI-assisted IT operations dashboard designed to analyze incidents, visualize trends, and identify optimization opportunities.
+📊 IncidentIQ-AI
+AI-assisted IT operations analytics dashboard.
 
 ---
 
