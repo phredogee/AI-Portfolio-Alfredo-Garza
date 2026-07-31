@@ -66,10 +66,6 @@ Built on top of Gridiron Cortex, GridironGPT continuously analyzes NFL news and 
 - Streamlit dashboard
 - Retrieval-Augmented Generation (RAG)
 
-**Repository**
-
-https://github.com/phredogee/GridironGPT
-
 ---
 
 ## 👁️ Smart Inventory Counter
