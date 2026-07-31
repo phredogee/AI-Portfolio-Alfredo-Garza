@@ -4,7 +4,7 @@
 
 # Alfredo Garza
 
-## Applied Artificial Intelligence Portfolio
+## AI Engineer | Software Developer | Applied Artificial Intelligence
 
 **Building intelligent software systems through machine learning, computer vision, natural language processing, and large language models.**
 
@@ -19,6 +19,8 @@ My work focuses on building complete AI systems—from data ingestion and proces
 # Featured Projects
 
 ## 🧠 Gridiron Cortex
+
+![Cortex Architecture](assets/images/cortex_architecture.png)
 
 ### Modular Intelligence Engine
 
@@ -44,6 +46,8 @@ It provides the intelligence layer behind GridironGPT and is being developed as 
 ## 🏈 GridironGPT
 
 ### Fantasy Football Intelligence Platform
+
+![Dashboard](assets/images/gridirongpt_dashboard.png)
 
 Built on top of Gridiron Cortex, GridironGPT continuously analyzes NFL news and player information to generate actionable fantasy football insights.
 
