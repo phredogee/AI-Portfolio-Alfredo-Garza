@@ -24,7 +24,7 @@ A reusable intelligence engine that transforms raw events into structured intell
 
 **Repository:** https://github.com/phredogee/GridironGPT
 
-**NOTE** Gridiron Cortex is currently developed as the intelligence engine within the GridironGPT repository.
+**NOTE:** Gridiron Cortex is currently developed as the intelligence engine within the GridironGPT repository.
 
 ### Modular Intelligence Engine
 
