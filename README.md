@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banners/cortex_engine_banner.png" alt="Cortex Engine Banner" width="100%">
+</p>
+
 # Alfredo Garza
 
 ## Applied Artificial Intelligence Portfolio
