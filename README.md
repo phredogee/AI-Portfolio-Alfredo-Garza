@@ -179,11 +179,11 @@ https://github.com/phredogee
 
 **LinkedIn**
 
-*(Add your LinkedIn profile)*
+https://www.linkedin.com/in/alfredo-c-garza/
 
 **Email**
 
-*(Add your preferred email address)*
+alfredo.garza@yahoo.com
 
 ---
 
