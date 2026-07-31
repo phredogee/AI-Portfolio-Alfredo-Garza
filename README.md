@@ -23,6 +23,7 @@ My work focuses on building complete AI systems—from data ingestion and proces
 A reusable intelligence engine that transforms raw events into structured intelligence through evidence aggregation, confidence calibration, entity resolution, relationship propagation, prediction, and explainable recommendations.
 
 **Repository:** https://github.com/phredogee/GridironGPT
+**NOTE** Gridiron Cortex is currently developed as the intelligence engine within the GridironGPT repository.
 
 ### Modular Intelligence Engine
 
@@ -157,7 +158,7 @@ AI-assisted IT operations dashboard for incident analysis, operational intellige
 
 # Education
 
-## Houston Community College
+## Houston City College
 
 **Associate of Applied Science**
 
