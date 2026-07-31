@@ -18,12 +18,6 @@ My work focuses on building complete AI systems—from data ingestion and proces
 
 # Featured Projects
 
-<p align="center">
-  <img src="assets/banners/cortex_engine_design_and_vatiations.png"
-       alt="Gridiron Cortex Design"
-       width="90%">
-</p>
-
 ## 🧠 Gridiron Cortex
 
 ### Modular Intelligence Engine
