@@ -1,26 +1,90 @@
 # Alfredo Garza
-### Applied Artificial Intelligence Portfolio
 
-Welcome to my professional AI portfolio. This repository showcases the projects, coursework, and software I've developed while pursuing my Associate of Applied Science in Artificial Intelligence at Houston Community College.
+## Applied Artificial Intelligence Portfolio
 
-My interests include intelligent automation, large language models (LLMs), computer vision, natural language processing, and building AI systems that solve practical problems. I enjoy designing software from the ground up—from data ingestion and processing pipelines to user-facing applications—and I'm continually expanding my knowledge through both coursework and independent projects.
+Welcome to my AI engineering portfolio.
 
-# About Me
+This repository serves as a central hub for the software, research, and coursework I've completed while pursuing my Associate of Applied Science in Applied Artificial Intelligence at Houston Community College.
 
-I'm an Applied AI student with a background in IT Service Management and technical support who is transitioning into AI and software engineering.
+My interests center around building intelligent software systems that combine machine learning, natural language processing, computer vision, and large language models into practical, real-world applications. I enjoy designing complete systems—from data ingestion and processing pipelines to user-facing applications—with an emphasis on scalability, modular architecture, and explainable AI.
 
-During my studies I've focused on building complete, real-world applications rather than isolated assignments. Most of my personal projects are designed with production-style architecture, documentation, and scalability in mind.
+---
 
-Current areas of focus include:
+# Featured Projects
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Large Language Models (LLMs)
-- Natural Language Processing
-- Intelligent Automation
-- Software Architecture
-- Data Engineering
+## 🧠 Gridiron Cortex
+
+**Modular Intelligence Engine**
+
+Gridiron Cortex is a reusable intelligence engine designed to transform raw events into explainable recommendations through a multi-stage reasoning pipeline.
+
+Core capabilities include:
+
+- Evidence Aggregation
+- Confidence Calibration
+- Entity Resolution
+- Signal Processing
+- Knowledge Graph Relationships
+- Impact Propagation
+- Prediction Engine
+- Recommendation Engine
+- Explainable AI
+
+Gridiron Cortex serves as the reasoning engine that powers GridironGPT and is being designed as a reusable platform for future intelligent applications.
+
+---
+
+## 🏈 GridironGPT
+
+**Fantasy Football Intelligence Platform**
+
+Built on top of Gridiron Cortex, GridironGPT continuously analyzes NFL news and player information to generate actionable fantasy football insights.
+
+Key features include:
+
+- Multi-source news ingestion
+- Player matching
+- Intelligent signal extraction
+- Knowledge graph reasoning
+- Explainable recommendations
+- Historical player scorecards
+- Streamlit dashboard
+
+Repository
+
+https://github.com/phredogee/GridironGPT
+
+---
+
+## 👁 Smart Inventory Counter
+
+Computer vision application utilizing YOLO object detection to automate inventory counting and object recognition.
+
+Technologies
+
+- YOLO11
+- OpenCV
+- Python
+- PyTorch
+
+---
+
+## 📰 NewsBot v2
+
+Natural Language Processing platform that collects, processes, and analyzes news articles through automated topic extraction and sentiment analysis.
+
+Features
+
+- Topic Modeling
+- Sentiment Analysis
+- Keyword Extraction
+- Interactive Dashboard
+
+---
+
+## 📊 IncidentIQ-AI
+
+AI-assisted IT operations dashboard focused on incident analysis, trend visualization, and operational intelligence.
 
 ---
 
@@ -33,122 +97,85 @@ Current areas of focus include:
 - Bash
 - Markdown
 
-## AI & Machine Learning
+## Artificial Intelligence
 
-- YOLO
-- OpenCV
-- TensorFlow
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+## Frameworks & Libraries
+
 - PyTorch
-- Ollama
-- FAISS
+- TensorFlow
+- OpenCV
+- YOLO
 - LangChain
-
-## Data Science
-
+- FAISS
+- Ollama
 - Pandas
 - NumPy
 - Matplotlib
 
-## Web & Applications
+## Tools
 
-- Streamlit
 - Git
 - GitHub
-
-## Development
-
 - Linux
 - Windows
 - VS Code
 - Jupyter Notebook
-
----
-
-# Featured Projects
-
-Featured Projects
-
-🏈 GridironGPT
-AI-powered fantasy football intelligence platform
-
-🧠 Gridiron Cortex
-
-![Cortex](assets/logos/cortex_engine_logo.png)
-Modular intelligence engine for event processing, reasoning,
-knowledge propagation, scoring, and explainable recommendations.
-
-👁 Smart Inventory Counter
-YOLO-based computer vision system for automated inventory counting.
-
-📰 NewsBot v2
-Automated NLP news analysis platform.
-
-📊 IncidentIQ-AI
-AI-assisted IT operations analytics dashboard.
-
----
-
-## 👁️ Smart Inventory Counter
-
-A Computer Vision project developed using YOLO object detection for automated inventory counting.
-
-Technologies
-
-- YOLO11
-- OpenCV
-- Python
+- Streamlit
 
 ---
 
 # Education
 
-## Houston Community College
+**Houston Community College**
 
 Associate of Applied Science
 
 Applied Artificial Intelligence
 
-Relevant Coursework
+Relevant coursework includes:
 
-- Computer Vision
 - Artificial Intelligence
 - Machine Learning
+- Computer Vision
 - Natural Language Processing
 - Robotics
 - Deep Learning
 
 ---
 
-# Current Learning
+# Currently Learning
 
-I'm currently expanding my knowledge in:
+I continue expanding my knowledge in:
 
 - AI Engineering
 - Knowledge Graphs
 - Agentic AI Systems
 - Software Architecture
-- Retrieval-Augmented Generation (RAG)
+- Cloud AI Platforms
 - Intelligent Automation
-- Cloud AI Technologies
 
 ---
 
-# Connect With Me
+# Connect
 
 GitHub
 
-- https://github.com/phredogee
+https://github.com/phredogee
 
 LinkedIn
 
-- *(Add your LinkedIn URL)*
+*(Add LinkedIn URL)*
 
 Email
 
-- *(Add your preferred email address)*
+*(Add preferred email address)*
 
 ---
 
-# Thank You
-
-Thank you for taking the time to review my portfolio. I'm always looking for opportunities to learn, collaborate, and contribute to projects involving Artificial Intelligence, Machine Learning, and intelligent software systems.
+Thank you for visiting my portfolio. I'm always interested in opportunities to build intelligent software systems, collaborate on innovative projects, and continue growing as an AI engineer.
