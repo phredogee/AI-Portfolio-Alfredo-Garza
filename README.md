@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/banners/cortex_engine_banner.png" alt="Cortex Engine Banner" width="100%">
+  <img src="assets/banners/cortex_engine_banner.png"
+       alt="Cortex Engine"
+       width="100%">
 </p>
 
 # Alfredo Garza
