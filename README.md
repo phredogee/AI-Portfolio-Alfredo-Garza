@@ -10,6 +10,8 @@
 
 ## Applied Artificial Intelligence Portfolio
 
+Building intelligent software systems through machine learning, computer vision, natural language processing, and large language models.
+
 Welcome to my AI engineering portfolio.
 
 This repository serves as a central hub for the software, research, and coursework I've completed while pursuing my Associate of Applied Science in Applied Artificial Intelligence at Houston Community College.
