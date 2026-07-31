@@ -20,6 +20,10 @@ My work focuses on building complete AI systems—from data ingestion and proces
 
 ## 🧠 Gridiron Cortex
 
+A reusable intelligence engine that transforms raw events into structured intelligence through evidence aggregation, confidence calibration, entity resolution, relationship propagation, prediction, and explainable recommendations.
+
+**Repository:** https://github.com/phredogee/GridironGPT
+
 ### Modular Intelligence Engine
 
 Gridiron Cortex is a reusable intelligence engine designed to transform raw events into explainable recommendations through a multi-stage reasoning pipeline.
@@ -43,6 +47,10 @@ It provides the intelligence layer behind GridironGPT and is being developed as 
 
 ## 🏈 GridironGPT
 
+An AI-powered fantasy football intelligence platform built on Gridiron Cortex that analyzes NFL news and generates explainable player recommendations.
+
+**Repository:** https://github.com/phredogee/GridironGPT
+
 ### Fantasy Football Intelligence Platform
 
 Built on top of Gridiron Cortex, GridironGPT continuously analyzes NFL news and player information to generate actionable fantasy football insights.
@@ -64,7 +72,11 @@ https://github.com/phredogee/GridironGPT
 
 ---
 
-## 👁 Smart Inventory Counter
+## 👁️ Smart Inventory Counter
+
+A computer vision application built with YOLO for automated object detection and inventory counting.
+
+**Repository:** https://github.com/phredogee/ITAI-1378-Midterm_SmartInventoryCounter
 
 Computer vision application utilizing YOLO object detection to automate inventory counting and object recognition.
 
@@ -79,6 +91,10 @@ Computer vision application utilizing YOLO object detection to automate inventor
 
 ## 📰 NewsBot v2
 
+An NLP-powered news analysis platform that collects, processes, and analyzes articles using topic extraction, sentiment analysis, and keyword detection.
+
+**Repository:** https://github.com/phredogee/newsbot_v2
+
 Natural Language Processing platform that automatically collects, processes, and analyzes news articles.
 
 ### Features
@@ -92,6 +108,10 @@ Natural Language Processing platform that automatically collects, processes, and
 ---
 
 ## 📊 IncidentIQ-AI
+
+An AI-assisted IT operations dashboard designed to analyze incidents, visualize trends, and identify optimization opportunities.
+
+**Repository:** https://github.com/phredogee/IncidentIQ-AI
 
 AI-assisted IT operations dashboard for incident analysis, operational intelligence, trend visualization, and automation opportunities.
 
